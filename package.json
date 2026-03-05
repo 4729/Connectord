@@ -1,5 +1,5 @@
 {
-    "name": "equicord",
+    "name": "connectord",
     "private": "true",
     "version": "1.14.3.1",
     "description": "The other cutest Discord client mod",
@@ -9,10 +9,10 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/Equicord/Equicord.git"
+        "url": "git+https://github.com/4729/connectord.git"
     },
     "license": "GPL-3.0-or-later",
-    "author": "Equicord",
+    "author": "Connectord",
     "scripts": {
         "build": "node --require=./scripts/suppressExperimentalWarnings.js scripts/build/build.mjs",
         "buildStandalone": "pnpm build --standalone",
